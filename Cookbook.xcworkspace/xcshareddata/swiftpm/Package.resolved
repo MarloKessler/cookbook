@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftExtensions",
+        "repositoryURL": "https://github.com/Connapptivity/SwiftExtensions.git",
+        "state": {
+          "branch": null,
+          "revision": "ecf4914aba3b7ca5a899b0cfee28a0f9fdf01201",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "WhatsNewKit",
+        "repositoryURL": "https://github.com/SvenTiigi/WhatsNewKit.git",
+        "state": {
+          "branch": null,
+          "revision": "6b92d15c99bbdc9351953903fb111060f4a732cf",
+          "version": "1.3.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

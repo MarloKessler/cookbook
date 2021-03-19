@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>What&apos;s new</key>
+	<string>Was gibt&apos;s neues?</string>
+	<key>All your recipes are only one tap away. You can search for all of them in Spotlight 🔎</key>
+	<string>All deine Rezepte sind nur einen Tap entfernt. Du kannst sie ganz einfach in Spotlightsuchen 🔎</string>
+	<key>Spotlight Search</key>
+	<string>Spotlight Suche</string>
+	<key>Recipe</key>
+	<string>Rezept</string>
+	<key>Do you really want to delete &quot;%@&quot;?</key>
+	<string>Möchtest Du &quot;%@&quot; wirklich löschen?</string>
+	<key>Delete Recipe</key>
+	<string>Rezept löschen</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>%d min</key>
+	<string>%d Min</string>
+	<key>New Recipe</key>
+	<string>Neues Rezept</string>
+	<key>Are you sure you want to discard your changes?</key>
+	<string>Bist Du sicher, dass Du deine Änderungen verwerfen möchtest?</string>
+	<key>Discard Changes</key>
+	<string>Änderungen verwerfen</string>
+	<key>Keep Editing</key>
+	<string>Weiter bearbeiten</string>
+	<key>Add Image</key>
+	<string>Bild hinzufügen</string>
+	<key>Edit Image</key>
+	<string>Bild bearbeiten</string>
+	<key>Portions:</key>
+	<string>Portionen:</string>
+	<key>For %d Portions</key>
+	<string>Für %d Portionen</string>
+	<key>Work time: %@ min</key>
+	<string>Kochzeit: %@ Min</string>
+	<key>Rest time: %@ min</key>
+	<string>Ruhezeit: %@ Min</string>
+	<key>Welcome to Cookbook</key>
+	<string>Willkommen bei Cookbook</string>
+	<key>Store your recipes</key>
+	<string>Speichere deine Rezepte</string>
+	<key>You can easily store all your favorite recipes in Cookbook 🥘🥗🧁</key>
+	<string>Du kannst all deine Lieblingsrezepte ganz einfach in Cookbook speichern 🥘🥗🧁</string>
+	<key>Access your recipes</key>
+	<string>Greife auf deine Rezepte zu</string>
+	<key>You can easily access your recipes when you need them and cook some magic 👩🏼‍🍳👨🏿‍🍳</key>
+	<string>Du kannst ganz leicht auf deine Rezepte zugreifen, wenn Du sie benötigst 👩🏼‍🍳👨🏿‍🍳</string>
+	<key>Let&apos;s start!</key>
+	<string>Jetzt loslegen!</string>
+	<key>Widget Support</key>
+	<string>Widget Support</string>
+	<key>View your latest recipes in widgets on your home screen📱</key>
+	<string>Lasse Dir deine neusten Rezepte direkt auf deinen Home-Screen anzeigen📱</string>
+</dict>
+</plist>
